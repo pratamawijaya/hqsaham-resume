@@ -14,7 +14,7 @@
 - melihat asing akumulasi /faccum tlkm, top 5 brokrer net buy /accumbd tlkm, materi 
 
 
-## Cara membonceng bandar yang sopan
+## Cara membonceng bandar yang sopan [link](https://t.me/c/1316829255/301567)
 cara membonceng bandar yang sopan:
 
 1. ketik /BRN 10  untuk melihat 10 broker yg melakukan net buy terbesar
@@ -29,10 +29,10 @@ Contoh :
 
 hati-hati menjadi penumpang gelap beresiko diturunkan ditengah jalan. 😄.. bukan hanya diturunkan saja , tapi uang anda dikuras dulu baru diturunin.
 
-## Membonceng asing
+## Membonceng asing [link](https://t.me/c/1316829255/294560)
 makanya penting , untuk masuk bila blue chip ada di /SCR NF5D
 
-## membonceng top 5 broker
+## membonceng top 5 broker [link](https://t.me/c/1316829255/292668)
 Kalau ingin ikut strategi top 5 broker, caranya adalah:
 Masuk ketika pola garis biru membentuk huruf v di 2 candle pertama . Stop lossnya adlh lowest low candle 3 hari terakhir.
 Kebalikannya segera keluar bila 2 candle terakhir membentuk huruf A yg diikuti penurunan harga. Bila pola huruf A terbentuk tapi malah terjadi kenaikan harga, itu artinya sedang terjadi mark up with distribution. Hold sampai terjadi lower low 2 candle berturut2
