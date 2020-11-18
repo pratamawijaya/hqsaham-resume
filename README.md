@@ -72,3 +72,21 @@ Command Broker Analysis :
 
 saat live : gunakan /scr nbs1  
 saat eod: gunakan /scr nbs3
+
+# Spike 
+command /mfqhis xxxx untuk periode 6 hari, /mfq xxxx utk 1 hari, /fq xxxx [nBulan] defaultnya 90 days, screening /score mfqspike, /score mfqspike2, /score mfqspike3
+
+/eq xxxx nHari max 100, default 21 hari (klo gak ditulis)
+
+di coba saja di bot
+
+jangan lupa baca pinned message di hq 👈
+
+yg belum join group dz silahkan join, /tools, group donat 🍩, pilih group demand zone
+
+atau ada yg belum join group hq, /m, ruang diskusi, lalu baca pinned message di sana
+
+cek masa aktif /w spy jangan dilempar keluar oleh hansip dan terlewatkan info penting dari group ini
+
+NGETIK COMMAND DI BOT, bukan di sini 😬 ke bot klik
+https://t.me/hqsahamidx_bot
