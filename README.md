@@ -90,3 +90,6 @@ cek masa aktif /w spy jangan dilempar keluar oleh hansip dan terlewatkan info pe
 
 NGETIK COMMAND DI BOT, bukan di sini 😬 ke bot klik
 https://t.me/hqsahamidx_bot
+
+# Support dan Resistance
+untuk mengetahui posisi support dan resistance, bisa menggunakan command **/SR xxx**
