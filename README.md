@@ -95,28 +95,29 @@ https://t.me/hqsahamidx_bot
 untuk mengetahui posisi support dan resistance, bisa menggunakan command **/SR xxx**
 
 # Quick Reference :
-coba 👉 /u, /u idxbumn20, /u lq45, /stats tlkm
-💪 StrongBuy /score tasum1, score tasum1,vol  lalu cek dgn /sinyal xxxx
-✍️ Stocks to Buy /tplanlist L/M/H, kosong jika hasilnya kebanyakkan.
-✈️ Stocks to Fly /hlmalert
-🧐 konon saham yg dipakai asing sebagai reksa dana lebih kuat dan aman ? coba /rdftop dan /rdfval, /rdfsell
-💰 Kepemilikkan Saham Asing: /O bris f.2020.11, Domestic: /O bris d.2020.11, coba juga /O bris fd.2020.11 bukan dibulan berjalan.
-History: /OT bris f.12.3 dan /OT bris d.12.3 history selama 12 bulan, jenis kepemilikkan 3 (1-9)
-😁 bot bisa menganalisa saham, secara pola candle (update 20:00) /ac wood
-secara indikator periode 14 hari /sinyal wood, sementara untuk kompas100, liat /map kompas100, coba juga fair value /xxxx atau /val xxxx lalu /rating 5
+* coba 👉 `/u, /u idxbumn20, /u lq45, /stats tlkm`
+* 💪 StrongBuy `/score tasum1, score tasum1,vol  lalu cek dgn /sinyal xxxx`
+* ✍️ Stocks to Buy /tplanlist L/M/H, kosong jika hasilnya kebanyakkan.
+* ✈️ Stocks to Fly /hlmalert
+* 🧐 konon saham yg dipakai asing sebagai reksa dana lebih kuat dan aman ? coba /rdftop dan /rdfval, /rdfsell
+* 💰 Kepemilikkan Saham Asing: /O bris f.2020.11, Domestic: /O bris d.2020.11, coba juga /O bris fd.2020.11 bukan dibulan berjalan.
+* History: /OT bris f.12.3 dan /OT bris d.12.3 history selama 12 bulan, jenis kepemilikkan 3 (1-9)
+* 😁 bot bisa menganalisa saham, secara pola candle (update 20:00) /ac wood secara indikator periode 14 hari /sinyal wood, sementara untuk kompas100, liat /map kompas100, coba juga fair value /xxxx atau /val xxxx lalu /rating 5
 
 Saham murah ala LKH 
-/sf per>1 per<10 pbv>0 pbv<1
+`/sf per>1 per<10 pbv>0 pbv<1`
 * annualized data.
 
-😳 saham2 di area mantulnya ? /scr acrev, /score acrev,bofibo90;1
-🤨 saham yg banyak indikator buy.nya /scrbuy klo output kosong, coba /scrbuy kode.sektor, kode sektor liat /ix, lalu coba /c xxxx O5 untuk lihat Support dan Resistance nya atau /p xxxx, /sr xxxx
-😱 saham yang harganya naik dan volume nya melebihi 2x rerata volume 26 hariannya ? /vspike1
-🤓 coba /map ihsg, lalu pilih misal /map kompas100
-🏰 melihat asing akumulasi /faccum tlkm, top 5 brokrer net buy /accumbd tlkm,
+* 😳 saham2 di area mantulnya ? /scr acrev, /score acrev,bofibo90;1
+* 🤨 saham yg banyak indikator buy.nya /scrbuy klo output kosong, coba /scrbuy kode.sektor, kode sektor liat /ix, lalu coba /c xxxx O5 untuk lihat Support dan Resistance nya atau /p xxxx, /sr xxxx
+* 😱 saham yang harganya naik dan volume nya melebihi 2x rerata volume 26 hariannya ? /vspike1
+* 🤓 coba /map ihsg, lalu pilih misal /map kompas100
+* 🏰 melihat asing akumulasi /faccum tlkm, top 5 brokrer net buy /accumbd tlkm,
+
 🚀Tips Membonceng Bandar Yang Sopan 
        Tips Membonceng Bandar Asing  
         Membonceng Top 5 Broker 
+
 🔎 command.2 broker https://t.me/c/1316829255/443577
 📊 membuat chart, analisa & mencari saham /pix mdka baca pdf Trade With Pixel   screening /scr gogc, /scr pix1 sd 9
 🎞 video tutorial /m, video tutor
