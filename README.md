@@ -1,5 +1,9 @@
 # HqSaham Resume
 
+<h3>Table of content</h3>
+- Cara Ubah Template Chart [link](https://github.com/pratamawijaya/hqsaham-resume#template-charting)
+- Analisa Spike [Link](https://github.com/pratamawijaya/hqsaham-resume#spike)
+- Bonceng Saham by Pak Mansu v2 [link](https://github.com/pratamawijaya/hqsaham-resume#strategi-bonceng-asing-by-pak-man-su)
 
 ## command
 - /u idx30 # potensi kenaikan saham
@@ -146,32 +150,32 @@ EMA13,EMA50,EMA100,I36,I16,O5,I40,LOG
 ```
 contoh hasilnya :
 
-![]("images/quardan_distri.jpeg")
+![](images/quardan_distri.jpeg)
 
 penjelasannya 
-![]("images/penjelasan_kuadran.png")
+![](images/penjelasan_kuadran.png)
 
 ## Strategi bonceng asing by Pak Man Su
 
 - screening dengan `/q5 30,300 0,3` tujuannya mendapatkan gambaran saham yang diakumulasi selama 5 hari dengan dana yang besar namun belum mengalami kenaikan
 
-![]("images/akumulasi_5.jpg")
+![](images/akumulasi_5.jpg)
 
 - analisa dengan perintah `/faccum <kodesaham>` untuk mengetahui harga rata2 akumulasi selama 90hari, dan trendnya perbandingan akumulasi vs distribusi
 
-![]("images/asii_faccum.jpg")
+![](images/asii_faccum.jpg)
 
 - analisa dengan `/pivot <kodesaham>` untuk mengetahui harga terakhir sudah break R1/R2/R3
 
-![]("images/pivot_asii.jpg")
+![](images/pivot_asii.jpg)
 
 - analisa dengan command `/c <kodesaham> i42,i36,i40,z11`,
 * i36 : foreign buy/sell
 * i42 : volume with MA
 * i40 : pixels trend, volume, momentum
 
-![]("images/asii_chart.jpg")
+![](images/asii_chart.jpg)
 
 - melihat komposisi pemegang saham `/o <kodesaham> fd.2020.12`
 
-![]("images/asii_komposisi.jpg")
+![](images/asii_komposisi.jpg)
