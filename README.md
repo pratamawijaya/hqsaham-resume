@@ -166,6 +166,9 @@ penjelasannya
 
 ![](images/asii_faccum.jpg)
 
+penjelasan mengenai faccum
+![](images/pejelasan_faccum.png)
+
 - analisa dengan `/pivot <kodesaham>` untuk mengetahui harga terakhir sudah break R1/R2/R3
 
 ![](images/pivot_asii.jpg)
@@ -180,3 +183,9 @@ penjelasannya
 - melihat komposisi pemegang saham `/o <kodesaham> fd.2020.12`
 
 ![](images/asii_komposisi.jpg)
+
+- analisa dengan vwap
+![](images/penjelasan_vwab.png)
+
+- analisa tambahan
+![](images/analisa_tambahan.png)
