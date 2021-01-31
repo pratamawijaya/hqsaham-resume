@@ -128,3 +128,50 @@ Saham murah ala LKH
 * 🏆 apa yg didapat donatur ? #1menggunakan bot, #2mendapat Live Alert, #3mengikuti group diskusi yg membahas saham, mencari saham pilihan.  join group donatur /tools, group donatur
 * 😢 error waktu join group/alert ketik /clear lalu ulangi, klo msh error, update telenya
 * 💎 Tersedia apps android GRATIS dgn stock pick harian yg win ratenya tinggi, beli sore besok cuan, juga bisa mencari saham, analisa
+
+## Template Charting
+```
+/dclist -> menampilkan template chart
+
+/dcreset id_chart command -> merubah command chart
+
+MA50,MA150,I36,O5,I40,LOG
+EMA13,EMA50,EMA100,I36,I16,O5,I40,LOG
+
+```
+
+## Riset Bandar Asing Lagi Ngapain
+```
+/q 5,10 0,3 -> menampilkan saham yang diakumulasi 5-10M dengan kenaikan 0-3%
+```
+contoh hasilnya :
+
+![]("images/quardan_distri.jpeg")
+
+penjelasannya 
+![]("images/penjelasan_kuadran.png")
+
+## Strategi bonceng asing by Pak Man Su
+
+- screening dengan `/q5 30,300 0,3` tujuannya mendapatkan gambaran saham yang diakumulasi selama 5 hari dengan dana yang besar namun belum mengalami kenaikan
+
+![]("images/akumulasi_5.jpg")
+
+- analisa dengan perintah `/faccum <kodesaham>` untuk mengetahui harga rata2 akumulasi selama 90hari, dan trendnya perbandingan akumulasi vs distribusi
+
+![]("images/asii_faccum.jpg")
+
+- analisa dengan `/pivot <kodesaham>` untuk mengetahui harga terakhir sudah break R1/R2/R3
+
+![]("images/pivot_asii.jpg")
+
+- analisa dengan command `/c <kodesaham> i42,i36,i40,z11`,
+* i36 : foreign buy/sell
+* i42 : volume with MA
+* i40 : pixels trend, volume, momentum
+
+![]("images/asii_chart.jpg")
+
+- melihat komposisi pemegang saham `/o <kodesaham> fd.2020.12`
+
+![]("images/asii_komposisi.jpg")
