@@ -2,6 +2,7 @@
 
 <h3>Table of content</h3>
 
+* Apa itu HqSahamIDX [link](https://github.com/pratamawijaya/hqsaham-resume#apa-itu-hqsahamidx)
 * Cara Ubah Template Chart [link](https://github.com/pratamawijaya/hqsaham-resume#template-charting)
 * Analisa Spike [Link](https://github.com/pratamawijaya/hqsaham-resume#spike)
 * Bonceng Saham by Pak Mansu v2 [link](https://github.com/pratamawijaya/hqsaham-resume#strategi-bonceng-asing-by-pak-man-su)
@@ -9,7 +10,7 @@
 
 ## Apa itu HqSahamIDX
 
-HQSaham adalah bot telegram yang fungsinya untuk mengamati pergerakan harga saham IHSG, bot ini dapat diakses di [@HQSahamIDX_bot](t.me/HQSahamIDX_bot)
+HQSaham adalah bot telegram yang fungsinya untuk mengamati pergerakan harga saham IHSG, bot ini dapat diakses di [@HQSahamIDX_bot](https://t.me/HQSahamIDX_bot)
 
 ## command
 - /u idx30 # potensi kenaikan saham
