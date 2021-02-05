@@ -7,6 +7,10 @@
 * Bonceng Saham by Pak Mansu v2 [link](https://github.com/pratamawijaya/hqsaham-resume#strategi-bonceng-asing-by-pak-man-su)
 * Setup Trading Plan [link](https://github.com/pratamawijaya/hqsaham-resume#setup-trading-plan)
 
+## Apa itu HqSahamIDX
+
+HQSaham adalah bot telegram yang fungsinya untuk mengamati pergerakan harga saham IHSG, bot ini dapat diakses di [@HQSahamIDX_bot](t.me/HQSahamIDX_bot)
+
 ## command
 - /u idx30 # potensi kenaikan saham
 - strong buy /score tasum1, score tasum1,vol  lalu masing2 dilihat dengan /sinyal xxxx
