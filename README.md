@@ -13,7 +13,7 @@
 
 ## Apa itu HqSahamIDX
 
-HQSaham adalah bot telegram buatan `Pak Mansu` yang fungsinya untuk mengamati pergerakan harga saham IHSG, bot ini dapat diakses di [@HQSahamIDX_bot](https://t.me/HQSahamIDX_bot), bot ini tidak gratis, untuk pricingnya `IDR 88.000/3Bulan`
+HQSahamIDX adalah bot telegram buatan `Pak Mansu` yang fungsinya untuk mengamati pergerakan harga saham IHSG, bot ini dapat diakses di [@HQSahamIDX_bot](https://t.me/HQSahamIDX_bot), bot ini tidak gratis, untuk pricingnya `IDR 88.000/3Bulan`
 
 ## command
 - /u idx30 # potensi kenaikan saham
