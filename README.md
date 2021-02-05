@@ -200,4 +200,5 @@ penjelasan mengenai faccum
 
 - `/STP <kodesaham> <harga beli>,<stoploss>,<target price>`
 - `/ltp` melihat daftar trading plan
+![](images/ltp_result.jpg)
 - `/dtp kodesaham` menghapus trading plan 
