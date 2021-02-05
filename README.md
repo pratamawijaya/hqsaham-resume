@@ -1,7 +1,7 @@
-<center>![](images/hqsahamidx.png)</center>
+![](images/hqsahamidx.png)
 
 
-<Center> HqSahamIDX Resume </Center>
+# HqSahamIDX Resume
 
 <h3>Table of content</h3>
 
