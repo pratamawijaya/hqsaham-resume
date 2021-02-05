@@ -5,6 +5,7 @@
 * Cara Ubah Template Chart [link](https://github.com/pratamawijaya/hqsaham-resume#template-charting)
 * Analisa Spike [Link](https://github.com/pratamawijaya/hqsaham-resume#spike)
 * Bonceng Saham by Pak Mansu v2 [link](https://github.com/pratamawijaya/hqsaham-resume#strategi-bonceng-asing-by-pak-man-su)
+* Setup Trading Plan [link](https://github.com/pratamawijaya/hqsaham-resume#setup-trading-plan)
 
 ## command
 - /u idx30 # potensi kenaikan saham
