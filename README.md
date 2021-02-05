@@ -189,3 +189,9 @@ penjelasan mengenai faccum
 
 - analisa tambahan
 ![](images/analisa_tambahan.png)
+
+## Setup Trading Plan
+
+- `/STP <kodesaham> <harga beli>,<stoploss>,<target price>`
+- `/ltp` melihat daftar trading plan
+- `/dtp kodesaham` menghapus trading plan 
